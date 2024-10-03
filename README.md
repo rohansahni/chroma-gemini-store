@@ -24,7 +24,7 @@ To get started with Chroma Store, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/chroma-store.git
+    git clone https://github.com/rohansahni/chroma-store.git
     cd chroma-store
     ```
 
