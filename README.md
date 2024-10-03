@@ -78,9 +78,13 @@ To get started with Chroma Store, follow these steps:
 
 ## Screenshots
 
-!Store Side
-!Customer Side
-!Customer Analysis
+![msedge_lTG8F3EdJE](https://github.com/user-attachments/assets/e83f99b2-5a1a-494a-bc57-f4db400f9329)
+
+![Screenshot_2-10-2024_234046_flutlab io](https://github.com/user-attachments/assets/662c82d2-b6a3-4b18-a74c-0831a959e202)
+
+![msedge_UUlyCmEKEm](https://github.com/user-attachments/assets/74cc8e5f-5a02-4161-aa99-d4f2943afb70)
+
+![msedge_eAwYkdqijl](https://github.com/user-attachments/assets/b557a4af-4bdb-4c1a-9325-6813f2ebcd1c)
 
 ## Contributing
 
