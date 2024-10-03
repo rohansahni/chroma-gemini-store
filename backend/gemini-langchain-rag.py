@@ -27,7 +27,7 @@ CORS(app, resources={r"/api/*": {"origins": "*"}})
 # Initialize Gemini API
 # genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
 # model = genai.GenerativeModel('gemini-1.5-pro')
-os.environ["GOOGLE_API_KEY"] = 'AIzaSyCseO9VxREb87rBGhQHXDvT0bb7eoGdKAY'
+os.environ["GOOGLE_API_KEY"] = 'YOUR_GEMINI_API'
 # Load and process CSV data
 file = r'C:\inetpub\wwwroot\chroma-gemini-flask-app\user_attribures_copy.csv'
 loader = CSVLoader(file_path=file)
